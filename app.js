@@ -1,4 +1,2 @@
-
-//hello app
-
+//hello nodejs
 console.log("hello nodejs...");
